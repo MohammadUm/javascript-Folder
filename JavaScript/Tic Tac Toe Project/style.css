@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: #8FE388;
+    text-align: center;
+}
+
+.container{
+    height: 70vh; /*vh as much as our page is visible 70% of it will be in conatiner */
+}
+.game{
+    height:60vmin;/* 1 % of viewport smaller dimension viewport ka 60%*/
+}

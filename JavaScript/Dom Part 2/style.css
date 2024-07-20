@@ -1,0 +1,21 @@
+#box{
+    height: 200px; 
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border:1px solid black;
+}
+/* .para{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    color: white; */
+
+/* }
+.umarpara{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(128, 0, 0);
+    color: white;
+    
+} */

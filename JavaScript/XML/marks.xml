@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stud-details>
+
+<student>
+<name>Alice</name>
+<science>80</science>
+<maths>90</maths>
+</student>
+
+
+<student>
+<name>Ben</name>
+<science>80</science>
+<maths>90</maths>
+</student>
+
+<student>
+<name>Charles</name>
+<science>80</science>
+<maths>90</maths>
+</student>
+</stud-details>
